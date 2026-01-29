@@ -1,7 +1,7 @@
 # System Design Resources Collection
 
-[![GitHub Stars](https://img.shields.io/github/stars/sandeepkumar-24/system-design-resources?style=social)](https://github.com/sandeepkumar-24/system-design-resources/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sandeepkumar-24/system-design-resources?style=social)](https://github.com/sandeepkumar-24/system-design-resources/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/sandy9808/system-design-resources?style=social)](https://github.com/sandy9808/system-design-resources/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sandy9808/system-design-resources?style=social)](https://github.com/sandy9808/system-design-resources/network/members)
 
 > Comprehensive system design learning materials organized into categories for easy reference and speed reading.
 
